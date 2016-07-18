@@ -22,7 +22,7 @@ h1{
 header {
 	width: 1028px;
 	height: 686px;
-  background-image: url(http://localhost:4000/assets/header.png);
+  background-image: url(/assets/header.png);
   background-size: cover;
   margin: auto;
 
@@ -124,7 +124,7 @@ header {
     #servicios{
       width: 1028px;
     	height: 700px;
-      background-image: url(http://localhost:4000/assets/servicios.png);
+      background-image: url(/assets/servicios.png);
       background-size: cover;
       // margin: 0 auto;
       }
@@ -168,7 +168,7 @@ header {
       #quienes{
         width: 1028px;
       	height: 686px;
-        background-image: url(http://localhost:4000/assets/quienes.png);
+        background-image: url(/assets/quienes.png);
         background-size: cover;
         // margin: 0 auto;
           .title h1{

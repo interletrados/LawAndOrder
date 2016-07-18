@@ -1,0 +1,416 @@
+/**
+ * Site header
+ */
+body{
+  background-color: white;
+  font-family: OpenSans;
+}
+h1{
+  font-family: BreeSerif-Regular;
+	font-size: 36px;
+	color: #000000;
+}
+.logo{
+  width: 453px;
+  height: 100px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 42px;
+}
+
+
+header {
+	width: 1028px;
+	height: 686px;
+  background-image: url(http://localhost:4000/assets/header.png);
+  background-size: cover;
+  margin: auto;
+
+
+  nav {
+      float: right;
+      line-height: 56px;
+      font-family: Montserrat-Bold;
+      font-size: 14px;
+      letter-spacing: -0.3px;
+      margin-right: 20px;
+      margin-top: 50px;
+      a {
+
+        text-transform: uppercase;
+        text-align: center;
+        padding: 0 1px 0 3px;
+        color: white;
+      }
+      a:before{
+        content: '|';
+        padding-right: 10px;
+      }
+      a:visited{
+        color: white;
+
+      }
+
+
+  }
+
+  .hero-shot{
+    clear: both;
+    width: 847px;
+    height: 226px;
+    display: inline-block;
+    margin-left: 95px;
+    margin-top: 263px;
+
+    h1{
+      font-family: BreeSerif-Regular;
+    	font-size: 60px;
+    	letter-spacing: -4.7px;
+    	text-align: left;
+      color: #144654;
+    }
+    h2{
+      font-family: OpenSans;
+    	font-size: 48px;
+    	letter-spacing: -4.7px;
+    	text-align: left;
+      color: #000;
+      line-height: 20px;
+    }
+    button{
+      width: 217px;
+    	height: 50px;
+    	border-radius: 5px;
+    	background-color: #ff593f;
+      font-family: OpenSans;
+    	font-size: 18px;
+    	letter-spacing: -1.8px;
+    	text-align: center;
+    	color: #ffffff;
+      margin-top: 20px;
+    }
+  }
+}
+.main-content{
+
+  width: 1028px;
+
+  margin: 0 auto;
+  section{
+    position: relative;
+    width: 1027px;
+    height: 685px;
+    .left{
+      position: absolute;
+      bottom: 50%;
+      left: 10px;
+    }
+    .right{
+      position: absolute;
+      bottom: 50%;
+      right: 10px;
+    }
+    h1{
+      color: white;
+      position: absolute;
+      bottom: 0;
+      left: 10px;
+      right: 10px;
+      text-align: center;
+      font-family: BreeSerif-Regular;
+      font-size: 60px;
+      letter-spacing: -4.7px;
+      }
+    #servicios{
+      width: 1028px;
+    	height: 700px;
+      background-image: url(http://localhost:4000/assets/servicios.png);
+      background-size: cover;
+      // margin: 0 auto;
+      }
+    #testimonial{
+      width: 1028px;
+    	height: 686px;
+      background-color: white;
+      // margin: 0 auto;
+
+        h1{
+          color: #9B9B9B;;
+        }
+        h2{
+          font-size: 48px;
+          color: #4A4A4A;
+          position: absolute;
+          letter-spacing: -4px;
+          bottom: 155px;
+          left: 395px;
+
+        }
+        p {
+          position: absolute;
+          width: 460px;
+          top: 214px;
+          left: 284px;
+          text-align: justify;
+        }
+
+        .avatar{
+          img{
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            position: absolute;
+            bottom: 160px;
+            left:300px;
+          }
+        }
+      }
+      #quienes{
+        width: 1028px;
+      	height: 686px;
+        background-image: url(http://localhost:4000/assets/quienes.png);
+        background-size: cover;
+        // margin: 0 auto;
+          .title h1{
+            color: white;
+            position: absolute;
+            bottom: -15px;
+            left: 10px;
+            right: 10px;
+            text-align: center;
+            font-family: BreeSerif-Regular;
+          	font-size: 60px;
+          	letter-spacing: -4.7px;
+          }
+        }
+      #location{
+        // width: 1028px;
+      	// height: 686px;
+        // margin: 0 auto;
+        padding-top: 3px;
+        .map{
+          margin-left: 114px;
+
+        }
+        h1{
+          position: static;
+          text-align: left;
+          font-family: BreeSerif-Regular;
+          font-size: 60px;
+          padding-left: 25px;
+          color: black;
+        }
+        img {
+          margin-top: 40px;
+          margin-left: 100px;
+            }
+        }
+        .formulario {
+
+          width: 780px;
+          margin: 0 auto;
+          font: OpenSans 16px;
+          color: #4A4A4A;
+
+          label{
+            margin: 10px 0;
+          }
+
+          .col1, .col2{
+            display: inline-block;
+          }
+          .col2{
+            margin-left: 105px;
+          }
+
+          input[type="text"],
+          input[type="email"] {
+            height: 25px;
+            font-size: 16px;
+            padding: 5px;
+            border: 1px solid gray;
+            border-radius: 3px;
+          }
+          textarea {
+            width: 100%;
+            height: 206px;
+            border: 1px solid gray;
+            border-radius: 3px;
+          }
+         }
+        #consulta{
+          width: 1028px;
+        	height: 686px;
+          h1{
+            position: relative;;
+            text-align: left;
+            font-family: BreeSerif-Regular;
+            font-size: 60px;
+            padding-left: 25px;
+            color: black;
+            margin-top: 20px;
+          }
+          input[type="submit"]{
+            color: white;
+            font-size: 16px;
+            position: absolute;
+            right: 117px;
+            bottom: 150px;
+            width: 170px;
+            height: 50px;
+            border-radius: 5px;
+            background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68);
+
+
+          }
+          input[value="placeholder"]{
+            text-align: center;
+          }
+        }
+          #social{
+            width: 1028px;
+          	height: 686px;
+            position: relative;
+            h1{
+              position: relative;
+              text-align: left;
+              font-family: BreeSerif-Regular;
+              font-size: 60px;
+              padding-left: 25px;
+              color: black;
+              margin-top: 20px;
+            }
+            h2{
+              position: absolute;
+              font-family: OpenSans;
+              font-size: 24px;
+              font-weight: 700;
+              letter-spacing: -0.9px;
+              color: black;
+              bottom: 100px;
+              left: 380px;
+              }
+
+            .col1{
+              position: absolute;
+              left: 325px;
+              top:225px;
+            }
+
+            .col2{
+              position: absolute;
+              right: 325px;
+              top:225px;
+
+            }
+            input[type="submit"]{
+              position: absolute;
+              top: 290px;
+              color: white;
+              left:352px;
+              font-size: 20px;
+              width: 328px;
+              height: 50px;
+              border-radius: 5px;
+              background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68);
+
+
+            }
+            input[type="text"]{
+              font-size: 16px;
+            }
+            .social-icons{
+                position: absolute;
+                left: 400px;
+                top: 440px;
+
+            img{
+              vertical-align: initial;
+            }
+
+          }
+
+            }
+        }
+}
+footer{
+  width: 1037px;
+  height: 700px;
+  background-color: #1B423F;
+  .logo{
+    width: 453px;
+  	height: 100px;
+  	float: left;
+    margin-top: 52px;
+    margin-left: 130px;
+  }
+  .container{
+    width: 1037px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+  }
+  a{
+    display: block;
+    color: white;
+    text-align: center;
+    font-family: Montserrat-Regular;
+    font-size: 20px;
+
+
+  }
+  .foot1{
+    width: 300px;
+    // padding-top: 150px;
+    // margin-left: 30px;
+    line-height: 60px;
+  }
+  .foot2{
+    width: 300px;
+
+    p {
+      color: white;
+      text-align: center;
+    }
+    .footmap{
+      position: static;
+      margin-left: 30px;
+    }
+  }
+  .foot3{
+    width: 300px;
+    // padding-top: 150px;
+    // margin-left: 30px;
+    // line-height: 60px;
+    p {
+      display: block;
+      color: white;
+      text-align: center;
+      font-family: Montserrat-Regular;
+      font-size: 16px;
+    }
+  }
+  .credits {
+    width: 1000px;
+    padding-top: 25px;
+    display: inline-block;
+    font-size: 32px;
+
+
+    p {
+      color: white;
+      text-align: center;
+
+    }
+    a{
+      display: inline-block;
+    }
+
+
+  }
+
+}

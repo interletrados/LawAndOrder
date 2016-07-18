@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Law&amp;Order</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jul 2016 10:28:43 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2016 10:28:43 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Varias de TiannaG</title>
+        <description>&lt;h2&gt;Tianna 1&lt;/h2&gt;
+&lt;img src=&quot;/assets/tianna1.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;h2&gt;Tianna 2&lt;/h2&gt;
+&lt;img src=&quot;/assets/tianna2.jpeg&quot; alt=&quot;&quot; /&gt;
+&lt;h2&gt;Tianna 3&lt;/h2&gt;
+&lt;img src=&quot;/assets/tianna3.jpeg&quot; alt=&quot;&quot; /&gt;
+</description>
+        <pubDate>Sun, 17 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/blog/photos/2016/07/17/varias-de-Chiara.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/photos/2016/07/17/varias-de-Chiara.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>Día del Carmen</title>
+        <description>Soy el chivúo &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/assets/luchi.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+</description>
+        <pubDate>Fri, 15 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/blog/madrid/2016/07/15/dia-del-carmen.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/madrid/2016/07/15/dia-del-carmen.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>madrid</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Jul 2016 00:10:08 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/07/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/13/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Blogging Like a Hacker</title>
+        <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;title&gt;Estos panas: una mano amiga en España&lt;/title&gt;
+    &lt;style media=&quot;screen&quot;&gt;
+    .logo,nav,nav li{display:inline-block}.hero-shoot h1,.hero-shoot h3{text-align:justify;color:#fff}.hero-shoot h3,a,button,nav a,nav li,nav li:before{color:#fff}:root{--faded-orange:#f5885f;--pale-teal:#84bd9a;--greyish-brown:#645e4f}header{background-image:url(../images/hero-shoot-desktop.png);background-size:cover;height:685px}h2{font-family:Alegreya-bold,serif;font-size:48px;letter-spacing:-4px;color:#84bd9a;color:var(--pale-teal)}nav{font-size:24px;position:absolute;right:42px;top:42px}nav li{margin-left:30px;font-family:Montserrat,sans-serif}nav li:before{content:&#39;∘&#39;;font-size:50px;line-height:20px}nav a{text-decoration:none}.logo{margin-left:4%;margin-top:1%}.hero-shoot{width:798px;height:122px;margin-left:11%;margin-top:263px}.hero-shoot h1{font-family:Alegreya,serif;font-size:89px;letter-spacing:-7px;line-height:0}.hero-shoot h3{font-family:OpenSans;font-size:60px;letter-spacing:-5.9px;line-height:20px}button{width:145px;height:36px;border-radius:6px;background-color:#84bd9a;background-color:var(--pale-teal);box-shadow:0 1px 2px 0 rgba(0,0,0,.2),inset 0 2px 0 0 #fff;border:1px solid #979797;font-family:OpenSans-Bold;font-size:14px;text-align:center;text-shadow:0 1px 0 #fff}#features{margin:0 auto;padding:0 3%}.box-circles{-webkit-flex-wrap:wrap;display:flex;flex-wrap:wrap;justify-content:space-around}
+    &lt;/style&gt;
+    &lt;link href=&quot;https://fonts.googleapis.com/css?family=Alegreya:700|Montserrat:300|Open+Sans:300,400&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css&quot;rel=&quot;stylesheet&quot; &gt;
+    &lt;link href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1&quot; crossorigin=&quot;anonymous&quot;&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;header&gt;
+      &lt;div class=&quot;logo&quot;&gt;
+        &lt;img src=&quot;assets/images/logo.png&quot; alt=&quot;estos-panas&quot; height=&quot;101px&quot; /&gt;
+      &lt;/div&gt;
+      &lt;nav&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Blog&lt;/li&gt;
+          &lt;a href=&quot;#features&quot;&gt;&lt;li&gt;Servicios&lt;/li&gt;&lt;/a&gt;
+          &lt;li&gt;Contacto&lt;/li&gt;
+          &lt;li&gt;Equipo&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/nav&gt;
+      &lt;div class=&quot;hero-shoot&quot;&gt;
+        &lt;h1&gt;Una mano amiga te recibe&lt;/h1&gt;
+        &lt;h3&gt;Para ayudarte con tu nueva vida&lt;/h3&gt;
+        &lt;button type=&quot;button&quot; name=&quot;button&quot;&gt;Más información&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+    &lt;section&gt;
+      &lt;div id=&quot;features&quot;&gt;
+        &lt;h2&gt;Qué ofrecemos&lt;/h2&gt;
+          &lt;div class=&quot;box-circles&quot;&gt;
+            &lt;div class=&quot;circle&quot;&gt;
+              &lt;img src=&quot;assets/images/aeropuerto.png&quot; alt=&quot;estospanas aeropuerto&quot; width=&quot;332px&quot; /&gt;
+              &lt;p class=&quot;circle-caption&quot;&gt;
+                Soft-landing
+              &lt;/p&gt;
+
+            &lt;/div&gt;
+            &lt;div class=&quot;circle&quot;&gt;
+              &lt;img src=&quot;assets/images/proyecto-vida.png&quot; alt=&quot;estospanas proyecto-vida&quot; width=&quot;332px&quot;/&gt;
+              &lt;p class=&quot;circle-caption&quot;&gt;
+                Proyecto de vida
+              &lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;article class=&quot;soft-landing&quot;&gt;
+            &lt;h2&gt;Soft-landing&lt;/h2&gt;
+            &lt;p&gt;
+              Enfocado en gestionar todos los trámites necesarios para garantizar a la familia un arranque seguro en Madrid
+            &lt;/p&gt;
+            &lt;div class=&quot;feature-icons&quot;&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/ley.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Extranjería              &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/maletin.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Trabajo
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/birrete.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Educación
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/casa.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Alojamiento
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/cohete.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Traslado
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+
+            &lt;div class=&quot;icon&quot;&gt;
+              &lt;img src=&quot;assets/images/marketing.png&quot; alt=&quot;estospanas&quot; /&gt;
+              &lt;p class=&quot;circle-caption&quot;&gt;
+                Comunicación
+              &lt;/p&gt;
+
+            &lt;/div&gt;
+          &lt;/article&gt;
+          &lt;article class=&quot;proyecto-vida&quot;&gt;
+            &lt;h2&gt;Proyecto de vida&lt;/h2&gt;
+            &lt;p&gt;
+              Enfocado en analizar las posibilidades de emprendimiento/inversión como alternativa a la búsqueda de empleo
+            &lt;/p&gt;
+            &lt;div class=&quot;feature-icons&quot;&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/emprendimiento.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Emprendimiento
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/desarrollo-web.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Desarrollo Web
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+              &lt;div class=&quot;icon&quot;&gt;
+                &lt;img src=&quot;assets/images/marketing.png&quot; alt=&quot;estospanas&quot; /&gt;
+                &lt;p class=&quot;circle-caption&quot;&gt;
+                  Marketing
+                &lt;/p&gt;
+
+              &lt;/div&gt;
+
+            &lt;/div&gt;
+          &lt;/article&gt;
+      &lt;/div&gt;
+    &lt;/section&gt;
+    &lt;section class=&quot;ultimo-tercio&quot;&gt;
+      &lt;article class=&quot;CTA-final&quot;&gt;
+        &lt;h2&gt;¿Quieres conocer más sobre España y las oportunidades que ofrece?&lt;/h2&gt;
+        &lt;h3&gt;¡Estamos para ayudarte!&lt;/h3&gt;
+        &lt;button type=&quot;button&quot; name=&quot;button&quot;&gt;Más información&lt;/button&gt;
+      &lt;/article&gt;
+    &lt;/section&gt;
+    &lt;footer&gt;
+      &lt;div class=&quot;logo-mono&quot;&gt;
+        &lt;img src=&quot;assets/images/logo-mono.png&quot; alt=&quot;estospanas&quot; width=&quot;360px&quot; /&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;copyright&quot;&gt;
+        &lt;p&gt;
+          © Interletrados Community S.L. 2016
+        &lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;
+          &lt;a href=&quot;assets/images/Desktop.png&quot;&gt;Ver maqueta hecha con ©Sketch&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;about&quot;&gt;
+        &lt;p&gt;
+          Hecho con &lt;span class=&quot;octicon octicon-heart&quot;&gt;&lt;/span&gt; en Madrid por &lt;a href=&quot;https://github.com/cmarchena/&quot;&gt;Carlos Marchena&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+        <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/2016/07/13/nuevo-post-hola-mundo.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2016/07/13/nuevo-post-hola-mundo.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -4,6 +4,7 @@
 body{
   background-color: white;
   font-family: OpenSans;
+  margin: 0;
 }
 h1{
   font-family: BreeSerif-Regular;
@@ -38,6 +39,7 @@ header {
       a {
 
         text-transform: uppercase;
+        text-decoration: none;
         text-align: center;
         padding: 0 1px 0 3px;
         color: white;
@@ -60,22 +62,22 @@ header {
     height: 226px;
     display: inline-block;
     margin-left: 95px;
-    margin-top: 263px;
+    margin-top: 120px;
 
     h1{
       font-family: BreeSerif-Regular;
-    	font-size: 60px;
+    	font-size: 58px;
     	letter-spacing: -4.7px;
     	text-align: left;
-      color: #144654;
+      color: white;
     }
     h2{
       font-family: OpenSans;
     	font-size: 48px;
     	letter-spacing: -4.7px;
     	text-align: left;
-      color: #000;
-      line-height: 20px;
+      color:  #144654;
+      line-height: 0;
     }
     button{
       width: 217px;
@@ -99,7 +101,7 @@ header {
   section{
     position: relative;
     width: 1027px;
-    height: 685px;
+
     .left{
       position: absolute;
       bottom: 50%;
@@ -120,6 +122,7 @@ header {
       font-family: BreeSerif-Regular;
       font-size: 60px;
       letter-spacing: -4.7px;
+      margin: 0;
       }
     #servicios{
       width: 1028px;
@@ -130,38 +133,40 @@ header {
       }
     #testimonial{
       width: 1028px;
-    	height: 686px;
+    	height: 486px;
       background-color: white;
       // margin: 0 auto;
 
         h1{
-          color: #9B9B9B;;
+          color: #9B9B9B;
+          padding-bottom: 5px;
         }
         h2{
           font-size: 48px;
           color: #4A4A4A;
           position: absolute;
           letter-spacing: -4px;
-          bottom: 155px;
-          left: 395px;
+          bottom: 72px;
+          left: 370px;
 
         }
         p {
           position: absolute;
-          width: 460px;
-          top: 214px;
-          left: 284px;
+          width: 560px;
+          top: 30px;
+          left: 250px;
+          font-size: 18px;
           text-align: justify;
         }
 
         .avatar{
           img{
-            width: 80px;
-            height: 80px;
+            width: 130px;
+            height: 130px;
             border-radius: 50%;
             position: absolute;
-            bottom: 160px;
-            left:300px;
+            bottom: 92px;
+            left:200px;
           }
         }
       }
@@ -174,7 +179,6 @@ header {
           .title h1{
             color: white;
             position: absolute;
-            bottom: -15px;
             left: 10px;
             right: 10px;
             text-align: center;
@@ -241,6 +245,13 @@ header {
         #consulta{
           width: 1028px;
         	height: 686px;
+          border-top: 1px solid gray;
+          .formulario{
+            background-color: #1F87B2;
+            padding: 30px 35px 20px 25px;
+
+            color: white;
+          }
           h1{
             position: relative;;
             text-align: left;
@@ -248,29 +259,31 @@ header {
             font-size: 60px;
             padding-left: 25px;
             color: black;
-            margin-top: 20px;
+            margin: 30px 0;
           }
           input[type="submit"]{
             color: white;
             font-size: 16px;
             position: absolute;
             right: 117px;
-            bottom: 150px;
+            bottom: 100px;
             width: 170px;
             height: 50px;
             border-radius: 5px;
             background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68);
-
-
-          }
+            }
           input[value="placeholder"]{
             text-align: center;
+          }
+          textarea {
+            color: gray;
           }
         }
           #social{
             width: 1028px;
           	height: 686px;
             position: relative;
+            border-top: 1px solid gray;
             h1{
               position: relative;
               text-align: left;
@@ -293,13 +306,13 @@ header {
 
             .col1{
               position: absolute;
-              left: 325px;
+              left: 30%;
               top:225px;
             }
 
             .col2{
               position: absolute;
-              right: 325px;
+              right: 30%;
               top:225px;
 
             }
@@ -337,6 +350,7 @@ footer{
   width: 1037px;
   height: 700px;
   background-color: #1B423F;
+  margin: 0 auto;
   .logo{
     width: 453px;
   	height: 100px;
@@ -395,15 +409,14 @@ footer{
     }
   }
   .credits {
-    width: 1000px;
-    padding-top: 25px;
-    display: inline-block;
-    font-size: 32px;
+    text-align: center;
+        p {
 
+          padding-top: 25px;
+          display: block;
+          font-size: 32px;
+          color: white;
 
-    p {
-      color: white;
-      text-align: center;
 
     }
     a{

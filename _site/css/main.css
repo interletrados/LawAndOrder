@@ -49,15 +49,15 @@ header {
     height: 340px;
     display: inline-block;
     margin-top: 120px;
-    padding: 40px 100px 0 100px; }
+    padding: 20px 100px 0 100px; }
     header .hero-shot h1 {
+      width: 850px;
       font-family: BreeSerif-Regular;
       font-size: 58px;
       letter-spacing: -4.7px;
       text-align: left;
       color: white;
-      background-color: rgba(0, 0, 0, 0.5);
-      width: 818px; }
+      background-color: rgba(0, 0, 0, 0.5); }
     header .hero-shot h2 {
       font-family: OpenSans;
       font-size: 48px;
@@ -168,168 +168,163 @@ header {
       .main-content section #location img {
         margin-top: 40px;
         margin-left: 100px; }
-    .main-content section .formulario {
-      width: 780px;
-      margin: 0 auto;
-      font: OpenSans 16px;
-      color: #4A4A4A; }
-      .main-content section .formulario label {
-        margin: 10px 0; }
-      .main-content section .formulario .col1, .main-content section .formulario .col2 {
-        display: inline-block; }
-      .main-content section .formulario .col1 {
-        margin-right: 30%; }
-        .main-content section .formulario .col1 .col2 {
-          margin-left: 30%; }
-        .main-content section .formulario .col1 input[type="text"],
-        .main-content section .formulario .col1 input[type="email"] {
+    .main-content section #consulta {
+      width: 1028px;
+      height: 686px;
+      border-top: 1px solid gray;
+      border-left: 1px solid gray;
+      border-right: 1px solid gray; }
+      .main-content section #consulta .formulario {
+        background-color: #1F87B2;
+        padding: 30px 35px 20px 25px;
+        color: white;
+        width: 780px;
+        margin: 0 auto;
+        font: OpenSans 16px; }
+        .main-content section #consulta .formulario label {
+          margin: 10px 0; }
+        .main-content section #consulta .formulario .col1, .main-content section #consulta .formulario .col2 {
+          display: inline-block; }
+        .main-content section #consulta .formulario input[type="text"],
+        .main-content section #consulta .formulario input[type="email"] {
           height: 25px;
           font-size: 16px;
           padding: 5px;
           border: 1px solid gray;
           border-radius: 3px; }
-        .main-content section .formulario .col1 textarea {
+        .main-content section #consulta .formulario textarea {
           width: 100%;
           height: 206px;
           border: 1px solid gray;
           border-radius: 3px; }
-      .main-content section .formulario #consulta {
-        width: 1028px;
-        height: 686px;
-        border-top: 1px solid gray;
-        border-left: 1px solid gray;
-        border-right: 1px solid gray; }
-        .main-content section .formulario #consulta .formulario {
-          background-color: #1F87B2;
-          padding: 30px 35px 20px 25px;
-          color: white; }
-        .main-content section .formulario #consulta h1 {
-          position: relative;
-          text-align: left;
-          font-family: BreeSerif-Regular;
-          font-size: 60px;
-          padding-left: 25px;
-          color: black;
-          margin: 30px 0; }
-        .main-content section .formulario #consulta input[type="submit"] {
-          color: white;
-          font-size: 16px;
-          position: absolute;
-          right: 117px;
-          bottom: 100px;
-          width: 170px;
-          height: 50px;
-          border-radius: 5px;
-          background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68); }
-        .main-content section .formulario #consulta input[value="placeholder"] {
-          text-align: center; }
-        .main-content section .formulario #consulta textarea {
-          color: gray; }
-      .main-content section .formulario #social {
-        width: 1028px;
-        height: 686px;
+      .main-content section #consulta h1 {
         position: relative;
-        border-top: 1px solid gray;
-        border-left: 1px solid gray;
-        border-right: 1px solid gray; }
-        .main-content section .formulario #social h1 {
-          position: relative;
-          text-align: left;
-          font-family: BreeSerif-Regular;
-          font-size: 60px;
-          padding-left: 25px;
-          color: black;
-          margin-top: 20px; }
-        .main-content section .formulario #social h2 {
-          position: absolute;
-          font-family: OpenSans;
-          font-size: 24px;
-          font-weight: 700;
-          letter-spacing: -0.9px;
-          color: black;
-          bottom: 100px;
-          left: 380px; }
-        .main-content section .formulario #social .col1 {
-          position: absolute;
-          left: 30%;
-          top: 225px; }
-        .main-content section .formulario #social .col2 {
-          position: absolute;
-          right: 30%;
-          top: 225px; }
-        .main-content section .formulario #social input[type="submit"] {
-          position: absolute;
-          top: 290px;
-          color: white;
-          left: 352px;
-          font-size: 20px;
-          width: 328px;
-          height: 50px;
-          border-radius: 5px;
-          background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68); }
-        .main-content section .formulario #social input[type="text"] {
-          font-size: 16px; }
-        .main-content section .formulario #social .social-icons {
-          position: absolute;
-          left: 400px;
-          top: 440px; }
-          .main-content section .formulario #social .social-icons img {
-            vertical-align: initial; }
-  .main-content footer {
+        text-align: left;
+        font-family: BreeSerif-Regular;
+        font-size: 60px;
+        padding-left: 25px;
+        color: black;
+        margin: 30px 0; }
+      .main-content section #consulta input[type="submit"] {
+        color: white;
+        font-size: 16px;
+        position: absolute;
+        right: 117px;
+        bottom: 100px;
+        width: 170px;
+        height: 50px;
+        border-radius: 5px;
+        background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68); }
+      .main-content section #consulta input[value="placeholder"] {
+        text-align: center; }
+      .main-content section #consulta textarea {
+        color: gray; }
+    .main-content section #social {
+      width: 1028px;
+      height: 686px;
+      position: relative;
+      border-top: 1px solid gray;
+      border-left: 1px solid gray;
+      border-right: 1px solid gray; }
+      .main-content section #social h1 {
+        position: relative;
+        text-align: left;
+        font-family: BreeSerif-Regular;
+        font-size: 60px;
+        padding-left: 25px;
+        color: black;
+        margin-top: 20px; }
+      .main-content section #social h2 {
+        position: absolute;
+        font-family: OpenSans;
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: -0.9px;
+        color: black;
+        bottom: 100px;
+        left: 380px; }
+      .main-content section #social .col1 {
+        position: absolute;
+        left: 30%;
+        top: 225px; }
+      .main-content section #social .col2 {
+        position: absolute;
+        right: 30%;
+        top: 225px; }
+      .main-content section #social input[type="submit"] {
+        position: absolute;
+        top: 290px;
+        color: white;
+        left: 352px;
+        font-size: 20px;
+        width: 328px;
+        height: 50px;
+        border-radius: 5px;
+        background-image: linear-gradient(to bottom, #ff5f3b, #ff2a68); }
+      .main-content section #social input[type="text"] {
+        font-size: 16px; }
+      .main-content section #social .social-icons {
+        position: absolute;
+        left: 400px;
+        top: 440px; }
+        .main-content section #social .social-icons img {
+          vertical-align: initial; }
+
+footer {
+  width: 1037px;
+  height: 700px;
+  background-color: #1B423F;
+  margin: 0 auto; }
+  footer .logo {
+    width: 453px;
+    height: 100px;
+    float: left;
+    margin-top: 52px;
+    margin-left: 130px; }
+  footer .container {
     width: 1037px;
-    height: 700px;
-    background-color: #1B423F;
-    margin: 0 auto; }
-    .main-content footer .logo {
-      width: 453px;
-      height: 100px;
-      float: left;
-      margin-top: 52px;
-      margin-left: 130px; }
-    .main-content footer .container {
-      width: 1037px;
-      height: 300px;
-      padding-top: 30px;
-      padding-left: 30px;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center; }
-    .main-content footer a {
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; }
+  footer a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-family: Montserrat-Regular;
+    font-size: 16px;
+    text-decoration: none; }
+  footer .foot1 {
+    width: 300px;
+    line-height: 60px; }
+  footer .foot2 {
+    width: 300px; }
+    footer .foot2 p {
+      color: white;
+      text-align: center; }
+    footer .foot2 .footmap {
+      position: static;
+      margin-left: 30px; }
+  footer .foot3 {
+    width: 300px; }
+    footer .foot3 p {
       display: block;
       color: white;
       text-align: center;
       font-family: Montserrat-Regular;
-      font-size: 16px;
-      text-decoration: none; }
-    .main-content footer .foot1 {
-      width: 300px;
-      line-height: 60px; }
-    .main-content footer .foot2 {
-      width: 300px; }
-      .main-content footer .foot2 p {
-        color: white;
-        text-align: center; }
-      .main-content footer .foot2 .footmap {
-        position: static;
-        margin-left: 30px; }
-    .main-content footer .foot3 {
-      width: 300px; }
-      .main-content footer .foot3 p {
-        display: block;
-        color: white;
-        text-align: center;
-        font-family: Montserrat-Regular;
-        font-size: 16px; }
-    .main-content footer .credits {
-      text-align: center;
-      margin-left: -70px; }
-      .main-content footer .credits p {
-        padding-top: 25px;
-        display: block;
-        font-size: 14px;
-        color: white; }
-      .main-content footer .credits a {
-        display: inline-block; }
+      font-size: 16px; }
+  footer .credits {
+    text-align: center;
+    margin-left: -70px; }
+    footer .credits p {
+      padding-top: 25px;
+      display: block;
+      font-size: 14px;
+      color: white; }
+    footer .credits a {
+      display: inline-block; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
